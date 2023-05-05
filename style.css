@@ -1,0 +1,16 @@
+body {
+    background-image: url("si.jpg");
+}
+#titulo {
+    width: 200px;
+    border-radius: 30px;
+}
+canvas {
+    background-color: aliceblue;
+    border: 10px  groove yellow;
+}
+
+#ta {
+    width: 600px;
+    border-radius: 30px;
+}
